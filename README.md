@@ -89,6 +89,20 @@ Web Development:
 Visual Studio Code 
 
 
+**NOVELTY**
+1) Real-time Soil Monitoring with IoT sensors.
+   
+2) Machine Learning for personalized crop recommendations.
+   
+3) Automated Irrigation Scheduling based on soil moisture and weather data.
+  
+4) Multilingual & Voice-Enabled Interface for easy access, even for illiterate farmers.
+ 
+5) Sustainable Practices with optimized water and fertilizer usage.
+   
+6) Mobile & Cloud Integration for remote monitoring and control.
+
+
 **Solution**
 
 The Enhanced Agri-IoT System integrates IoT technology with Machine Learning to provide a comprehensive solution for soil health monitoring and crop recommendation. The system consists of:
