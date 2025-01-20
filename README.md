@@ -1,4 +1,5 @@
-Enhanced Agri-IoT System for Soil Health Monitoring and Crop Recommendation Using Machine Learning (soilsync)
+**Enhanced Agri-IoT System for Soil Health Monitoring and Crop Recommendation Using Machine Learning (soilsync)**
+
  This project addresses the challenges faced by farmers in optimizing crop yields due to limited knowledge of soil health, improper crop selection, and inefficient resource management. The system utilizes IoT sensors to monitor key soil parameters such as pH, moisture, temperature, and NPK (Nitrogen, Phosphorus, Potassium) levels in real-time.
 Machine Learning algorithms analyze this data to:
 * Recommend suitable crops based on soil conditions.
