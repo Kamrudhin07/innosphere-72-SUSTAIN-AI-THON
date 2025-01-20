@@ -8,6 +8,7 @@ Machine Learning algorithms analyze this data to:
 * A user-friendly dashboard integrates these insights, empowering farmers to make data-driven decisions, enhance productivity, conserve resources, and adopt sustainable farming practices. This solution aligns with UN SDG Goal 2 (Zero Hunger) and Goal 12 (Responsible Consumption and Production).
 
   **WORKFLOW**
+  
   ![image](https://github.com/user-attachments/assets/b5abcd29-5b13-4699-977e-2ca1a20075e2)
 
 
