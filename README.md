@@ -55,4 +55,33 @@ UN SDG Goal 2: Zero Hunger.
 UN SDG Goal 12: Responsible Consumption and Production.
 
 
+**TECH STACK**
+
+**1. Hardware**
+Sensors:
+DHT11 (Temperature and Humidity)
+Soil Moisture Sensor
+Microcontroller:
+ESP32 (for data collection and Wi-Fi transmission)
+**2. Cloud**
+Database:
+Supabase (open-source backend-as-a-service for real-time data storage and retrieval)
+**3. Machine Learning**
+Platform:
+Python-based framework for ML model (GoogleCollab)
+Integration:
+Flask to host and connect the ML model via API
+**4. Software Development**
+Web Application:
+Framework: React.js,node.js
+**5. Communication Protocols**
+IoT Communication:
+HTTP (for sending data from ESP32 to Supabase or cloud services)
+**6. Tools and IDEs**
+Hardware Programming:
+Arduino IDE or PlatformIO (for ESP32 programming)
+Web Development:
+Visual Studio Code 
+
+
 
