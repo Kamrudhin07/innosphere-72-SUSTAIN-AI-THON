@@ -14,10 +14,9 @@ Machine Learning algorithms analyze this data to:
   
   ![image](https://github.com/user-attachments/assets/b5abcd29-5b13-4699-977e-2ca1a20075e2)
 
+ **CONCEPT MAP**
 
-  **CONCEPT MAP**
-
-  Concept Map for "Enhanced Agri-IoT System for Soil Health Monitoring and Crop Recommendation Using Machine Learning"
+ Concept Map for "Enhanced Agri-IoT System for Soil Health Monitoring and Crop Recommendation Using Machine Learning"
 
 1) IoT Sensors:
 
@@ -103,7 +102,7 @@ Visual Studio Code
 6) Mobile & Cloud Integration for remote monitoring and control.
 
 
-**Solution**
+**SOLUTION**
 
 The Enhanced Agri-IoT System integrates IoT technology with Machine Learning to provide a comprehensive solution for soil health monitoring and crop recommendation. The system consists of:
 
